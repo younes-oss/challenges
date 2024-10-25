@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1729172675 source:c:\users\hp\documents\challenges\chalenge2\main.c
+	<stdio.h>
+	<stdlib.h>
+
